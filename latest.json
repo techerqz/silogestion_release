@@ -1,0 +1,11 @@
+{
+    "version": "0.0.1",
+    "notes": "Version beta, test updater.",
+    "pub_date": "2024-10-03T16:15:00+02:00",
+    "platforms": {
+      "windows-x86_64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOG1iSnJuWXdjWlZ1SG9BUDVUYi9CRHF1WEFVVWFMOGRzckJiK3MrNTRhRmIydnBIRDcxaWo1NnFQc3d3NzN5bEJSM2p4cVNEN3BhTWRHQ1lWanNiNXQxcEJzdFBGMXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3MzUwOTY3CWZpbGU6RHVwdWlzIEVSUVpfMC4wLjRfeDY0X2VuLVVTLm1zaQpuY0JuUFNPYXJFZXJtcFl3eVE5QnJ3UlIzZXY4RFhvNjlKeDlJa083SHJESTZtMU1MSk9iZk43bUx0YUMwK01MZWpoaW5kdzBlSFdibzIybHNLN2RBdz09Cg==",
+        "url": "https://raw.githubusercontent.com/techerqz/dupuis_release/refs/heads/main/download/v004.msi"
+      }
+    }
+  }
