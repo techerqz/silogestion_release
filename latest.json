@@ -1,11 +1,11 @@
 {
-    "version": "0.0.3",
+    "version": "0.0.4",
     "notes": "Version beta, try to solve unexpected keyid.",
-    "pub_date": "2024-10-04T17:10:00+02:00",
+    "pub_date": "2024-10-08T09:10:00+02:00",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOG1iSnJuWXdjWmFsV0RwU2FRTGJCNUxFbm80dVFPa0JGUU1QcnZEMFRQVG0veDBuK0tldk9IUlRlZ1RkdHRYcEJpUFk1QVRDV3NCODQycWVMYldQQTl4YUhYZzlra0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4MDU0OTM1CWZpbGU6U2lsb0dlc3Rpb25fMC4wLjNfeDY0X2VuLVVTLm1zaQpaeXBscFBjZks4VUhoQS9kbXdsaEJMVy8xcTl4cUs3dnpvcUZxWjB4TXhCTVdXb2xYRFM3NDRaU0w3ZTgrbjVxY3ViYTkwMkZhRmlLV2NLc1M0em1DZz09Cg==",
-        "url": "https://raw.githubusercontent.com/techerqz/silogestion_release/refs/heads/main/download/v003.msi"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHNZWlJmeXdzQThPamlXTUJGL0xQdXJSbndTQzBYZUl4RTY3OTJXVDF6RDZOb0wzL3hLSkJnb1hvRmEyby9UY0FhTHkzalhCK090djVCMFlFajVCcDk0d2xTYkJCbHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4MzczMzQ2CWZpbGU6U2lsb0dlc3Rpb25fMC4wLjRfeDY0X2VuLVVTLm1zaQpIRFRTbnF5Z0ptWkR6aWsxTFNOYjV0bkdnUGR6N1J2cisvRXI0Z2tRdzl5dWRBc0FiUzdUamJNeCt1WitxajRCZnFrMy90TWh2TkJkUW4vZldNM1RBQT09Cg==",
+        "url": "https://raw.githubusercontent.com/techerqz/silogestion_release/refs/heads/main/download/v004.msi"
       }
     }
   }
